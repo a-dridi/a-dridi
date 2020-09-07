@@ -1,6 +1,6 @@
 ## Software Developer and IT Enthusiast
 - 💻 Develops Java applications
-- 🌍 Webmaster of ard-site.net
+- 🌍 Webmaster and Creator of ard-site.net
 - ❇ And more ...
 
 ### Contact Me:
