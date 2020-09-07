@@ -1,7 +1,8 @@
 ## Software Developer and IT Enthusiast
 - 💻 Develops Java applications
 - 🌍 Webmaster and Creator of ard-site.net
-- ❇ HTML/CSS/JS Websites, CMS Websites (Wordpress, Joomla), Administration of services (web server, mail server, Nextcloud) on Linux servers and more ...
+- 🔧 Creation and administration of HTML/CSS/JS Websites and CMS Websites (Wordpress, Joomla)
+- ❇ Administration of services (web server, mail server, Nextcloud) on Linux servers and more...
 
 ### Contact Me:
 
