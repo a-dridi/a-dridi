@@ -1,5 +1,5 @@
 ## Software Developer and IT Enthusiast
-- 💻 Web apps in Java  (Spring)
+- 💻 Web apps in Java (Spring)
 - 🔧 HTML/CSS/JS websites and CMS websites (Wordpress, Joomla)
 - ❇ Administration of services (web server, mail server, Nextcloud) on Linux servers
 
